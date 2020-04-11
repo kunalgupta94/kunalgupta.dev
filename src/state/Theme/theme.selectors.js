@@ -1,0 +1,1 @@
+export const getTheme = store => store.themes.value;
