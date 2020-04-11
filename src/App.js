@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { ThemeProvider } from 'react-jss';
 import themes from './themeData';
 import Body from './Components/Body';
